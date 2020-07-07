@@ -6,7 +6,7 @@ Install:
 
 - Download the required files and extract them.
 - Run Terminal (/Applications/Utilities/Terminal.app)
-- Browse to the newly downloaded folder folder, i.e., if it’s in Desktop, then type in Terminal “cd Desktop/ADB-Fastboot-InstallerMacOS” (without quotes).
+- Browse to the newly downloaded folder folder, i.e., if it’s in Desktop, then type in Terminal “cd Desktop/ADB-Fastboot-InstallerMacOS-master” (without quotes).
 - To run the script type “./install.sh” (without quotes).
 - If you get the "permission denied" error, make the script executable by running "chmod +x" to the install.sh.
 - Follow the on-screen steps.
