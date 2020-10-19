@@ -8,7 +8,7 @@
 #  Modified on 07/07/2020
 echo "Hi. I will install ADB and Fastboot on your Mac."
 sleep 1
-echo "Root permission required, please type your password."
+echo "SU permission required, if prompted, please type your password."
 sudo cd ~ #Gives sudo permission
 cd "`dirname "$0"`" #CD to script directory
 sleep 1
