@@ -5,7 +5,7 @@
 #  This script will install adb and fastboot into /usr/local/bin/
 #  These commands may be run from anywhere.
 #
-#  Modified on 07/07/2020
+#  Modified on 10/19/2020
 echo "Hi. I will install ADB and Fastboot on your Mac."
 sleep 1
 echo "SU permission required, if prompted, please type your password."
